@@ -1,8 +1,7 @@
 package pl.potoczny.videoapp;
-
+//siema
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//siema
 @SpringBootApplication
 public class VideoappApplication {
 
